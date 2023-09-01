@@ -1,0 +1,18 @@
+{
+  "code": "ja",
+  "page1": {
+    "name": "名前",
+    "email": "Emailアドレス"
+  },
+  "common": {
+    "messages": {
+      "mixed": {
+        "default": "${path}が無効です",
+        "required": "${path}は必須項目です"
+      },
+      "string": {
+        "email": "${path}は有効なメールアドレスでなければなりません"
+      }
+    }
+  }
+}

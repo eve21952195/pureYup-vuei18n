@@ -1,0 +1,19 @@
+{
+    "code": "zh_TW",
+    "page1": {
+      "name": "姓名",
+      "email": "Email信箱"
+    },
+    "common": {
+      "messages": {
+        "mixed": {
+          "default": "${path}无效zzzzzz",
+          "required": "${path}是必填项zzzzz"
+        },
+        "string": {
+          "email": "${path}必须是有效的电邮地址zzzz"
+        }
+      }
+    }
+  }
+  
